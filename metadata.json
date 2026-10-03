@@ -1,0 +1,6 @@
+{
+  "name": "PT. LIZON Pharma - IT Engineer GxP Portal",
+  "description": "Portal operasional, validasi CSV GAMP 5, manajemen integritas data ALCOA+, infrastruktur pabrik farmasi, dan kesiapan audit untuk IT Engineer PT. LIZON Pharma Indonesia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
